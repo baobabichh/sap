@@ -1,0 +1,11 @@
+﻿  Cell.cpp
+c:\users\ban\source\repos\saper_v4\saper_v4\header.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Cell_field.cpp
+c:\users\ban\source\repos\saper_v4\saper_v4\header.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ban\source\repos\saper_v4\saper_v4\cell_field.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ban\source\repos\saper_v4\saper_v4\cell_field.cpp(211): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  saper_v4.cpp
+c:\users\ban\source\repos\saper_v4\saper_v4\header.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ban\source\repos\saper_v4\saper_v4\saper_v4.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  saper_v4.vcxproj -> C:\Users\Ban\source\repos\saper_v4\Debug\saper_v4.exe
